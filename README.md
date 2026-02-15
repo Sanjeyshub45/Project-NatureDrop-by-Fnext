@@ -2,6 +2,14 @@
 
 A modern Flutter-based e-commerce application for selling oil products, featuring user and admin roles, real-time inventory management, and seamless shopping experience.
 
+## UI Lookups
+
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="images/image.png" width="200"> | <img src="images/image%20copy.png" width="200"> | <img src="images/image%20copy%202.png" width="200"> | <img src="images/image%20copy%203.png" width="200"> | <img src="images/image%20copy%204.png" width="200"> |
+| <img src="images/image%20copy%205.png" width="200"> | <img src="images/image%20copy%206.png" width="200"> | <img src="images/image%20copy%207.png" width="200"> | <img src="images/image%20copy%208.png" width="200"> | <img src="images/image%20copy%209.png" width="200"> |
+| <img src="images/image%20copy%2010.png" width="200"> | <img src="images/image%20copy%2011.png" width="200"> | <img src="images/image%20copy%2012.png" width="200"> | <img src="images/image%20copy%2013.png" width="200"> | <img src="images/image%20copy%2014.png" width="200"> |
+
 ## Features
 
 ### User Features
